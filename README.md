@@ -35,7 +35,7 @@ The algorithm is the original AFO algorithm (AFO2,AFO3,different versions)
 
 Bunchmark function set is CEC2017 Bunchmark function set
 
-2. Realistic problems
+2. Real-world problems
 
 There are two algorithms
 
