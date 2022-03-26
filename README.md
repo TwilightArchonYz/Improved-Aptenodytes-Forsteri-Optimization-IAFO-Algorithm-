@@ -94,7 +94,7 @@ School: University of Manchester, UK, Harbin Institute of Technology，China
 
 浮生未歇几时欢，心系虚妄怎逍遥。
 
-
+ 
 
 人心多是少相投，非识尘中上品流。
 
@@ -106,7 +106,7 @@ School: University of Manchester, UK, Harbin Institute of Technology，China
 
 浮生聚散是浮萍，何须日夜苦蝇营。
 
-
+ 
 
 笑看沧海欲成尘，王母花前别众真。
 
