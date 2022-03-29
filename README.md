@@ -72,13 +72,13 @@ Yang Z, Deng L B, Wang Y, et al. Aptenodytes Forsteri Optimization: Algorithm an
 
 邮箱：454170989@qq.com
 
-学校：英国曼彻斯特大学，中国哈尔滨工业大学
+学校：英国曼彻斯特大学
 
 Author：Yang Zhe
 
 E-mail: 454170989@qq.com
 
-School: University of Manchester, UK, Harbin Institute of Technology，China
+School: University of Manchester, UK
 
 %%--------------------------------------------%%
 
